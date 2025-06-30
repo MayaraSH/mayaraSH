@@ -13,7 +13,7 @@ I'm <strong> Mayara </strong>, currently studying Front-End Engineering at EBAC 
 
 ### Details
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraSH&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraSH&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Projects
 
@@ -21,6 +21,7 @@ I'm <strong> Mayara </strong>, currently studying Front-End Engineering at EBAC 
 
 ### Recent Experience
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
+
 [![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#)
 
 ### Contacts
