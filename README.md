@@ -1,4 +1,5 @@
 ## Olá! 👋
+Eu sou a <strong> Mayara </strong> e atualmente estudo Engenharia de Front-End na EBAC (Escola Britânica de Artes Criativas e Tecnologia)
 
 ### Habilidades
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
