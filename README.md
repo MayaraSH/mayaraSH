@@ -18,7 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=projeto3&theme=dracula)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/MayaraSH/projeto3))
 
-### Experiência
+### Experiências recentes
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 [![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#)
 
