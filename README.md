@@ -9,14 +9,13 @@ I'm <strong> Mayara </strong>, currently studying Front-End Engineering at EBAC 
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSH&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSH&layout=compact&theme=dracula)](#)
 
 ### Details
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraSH&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraSH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](#)
 
 ### Top Projects
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=projeto3&theme=dracula)](https://github.com/MayaraSH/projeto3)
 
 ### Recent Experience
