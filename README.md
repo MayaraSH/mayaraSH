@@ -9,7 +9,7 @@ I'm <strong> Mayara </strong>, currently studying Front-End Engineering at EBAC 
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraSH&layout=compact&theme=dracula)
 
 ### Details
 
@@ -17,7 +17,7 @@ I'm <strong> Mayara </strong>, currently studying Front-End Engineering at EBAC 
 
 ### Top Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=projeto3&theme=dracula)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/MayaraSH/projeto3))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=projeto3&theme=dracula)](https://github.com/MayaraSH/projeto3)
 
 ### Recent Experience
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
