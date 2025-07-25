@@ -16,7 +16,12 @@ I'm <strong> Mayara </strong>, currently studying Front-End Engineering at EBAC 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MayaraSH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/MayaraSH)
 
 ### Top Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=profile&theme=dracula)](https://github.com/MayaraSH/profile)
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=projeto3&theme=dracula)](https://github.com/MayaraSH/projeto3)
+
 
 ### Recent Experience
 [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
