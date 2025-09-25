@@ -20,6 +20,9 @@ I'm <strong> Mayara </strong>, currently studying Front-End Engineering at EBAC 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=profile&theme=dracula)](https://github.com/MayaraSH/profile)
 <br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=clone_disneyplus&theme=dracula)](https://github.com/MayaraSH/clone_disneyplus)
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MayaraSH&repo=projeto3&theme=dracula)](https://github.com/MayaraSH/projeto3)
 
 
