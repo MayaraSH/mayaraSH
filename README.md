@@ -25,6 +25,8 @@ I'm **Mayara**, currently studying Front-End Engineering at EBAC (British School
 
 [![Readme Card](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MayaraSH&repo=clone_disneyplus&theme=dracula)](https://github.com/MayaraSH/clone_disneyplus)
 
+[![Readme Card](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MayaraSH&repo=react_imc&theme=dracula)](https://github.com/MayaraSH/react_imc)
+
 [![Readme Card](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MayaraSH&repo=countdown_evento&theme=dracula)](https://github.com/MayaraSH/countdown_evento)
 
 ---
