@@ -12,6 +12,7 @@ I'm **Mayara**, a Front-End Engineering student at EBAC (British School of Creat
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](#)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)](#)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](#)
 
 ---
 
