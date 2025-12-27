@@ -1,7 +1,7 @@
 ### Hello! 
 I'm **Mayara**, a Front-End Engineering student at EBAC (British School of Creative Arts and Technology).  
 
-- Portifolio: https://www.mayara.digital/
+- Portfolio: https://www.mayara.digital/
 
 ---
 
