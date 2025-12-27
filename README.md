@@ -1,5 +1,7 @@
-## Hello! 👋
-I'm **Mayara**, currently studying Front-End Engineering at EBAC (British School of Creative Arts and Technology).
+### Hello! 
+I'm **Mayara**, a Front-End Engineering student at EBAC (British School of Creative Arts and Technology).  
+
+- Portifolio: https://www.mayara.digital/
 
 ---
 
@@ -14,22 +16,21 @@ I'm **Mayara**, currently studying Front-End Engineering at EBAC (British School
 ---
 
 ### GitHub Stats
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mayaraSh&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://githubreadmestatsfast.vercel.app/api?username=MayaraSH&show_icons=true&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mayaraSh&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=MayaraSH&layout=compact&theme=tokyo-night)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mayaraSh&theme=tokyonight)
+
 
 ---
 
 ### Top Projects
 
-[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=mayara.digital&theme=tokyo-night)](https://github.com/MayaraSH/mayara.digital)
+[![mayara.digital](https://github-readme-stats-fast.vercel.app/api/pin/?username=MayaraSH&repo=mayara.digital&theme=tokyonight)](https://github.com/MayaraSH/mayara.digital) [ ![clone_disneyplus](https://github-readme-stats-fast.vercel.app/api/pin/?username=MayaraSH&repo=clone_disneyplus&theme=tokyonight)](https://github.com/MayaraSH/clone_disneyplus) 
+[![react_imc](https://github-readme-stats-fast.vercel.app/api/pin/?username=MayaraSH&repo=react_imc&theme=tokyonight)](https://github.com/MayaraSH/react_imc) [![countdown_evento](https://github-readme-stats-fast.vercel.app/api/pin/?username=MayaraSH&repo=countdown_evento&theme=tokyonight)](https://github.com/MayaraSH/countdown_evento)
+[![projeto-5-tarefas](https://github-readme-stats-fast.vercel.app/api/pin/?username=MayaraSH&repo=projeto-5-tarefas&theme=tokyonight)](https://github.com/MayaraSH/projeto-5-tarefas) [![contatos_redux](https://github-readme-stats-fast.vercel.app/api/pin/?username=MayaraSH&repo=contatos_redux&theme=tokyonight)](https://github.com/MayaraSH/contatos_redux) 
 
-[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=clone_disneyplus&theme=tokyo-night)](https://github.com/MayaraSH/clone_disneyplus)
-
-[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=react_imc&theme=tokyo-night)](https://github.com/MayaraSH/react_imc)
-
-[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=countdown_evento&theme=tokyo-night)](https://github.com/MayaraSH/countdown_evento)
 
 ---
 
@@ -42,3 +43,5 @@ I'm **Mayara**, currently studying Front-End Engineering at EBAC (British School
 ### Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mayara.workmail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayara-cristina-do-amaral/)
+
+
