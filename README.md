@@ -1,6 +1,8 @@
 ## Hello! 👋
 I'm **Mayara**, currently studying Front-End Engineering at EBAC (British School of Creative Arts and Technology).
 
+---
+
 ### Technical Skills
 [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](#)
@@ -13,21 +15,21 @@ I'm **Mayara**, currently studying Front-End Engineering at EBAC (British School
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=MayaraSH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![GitHub stats](https://githubreadmestatsfast.vercel.app/api?username=MayaraSH&show_icons=true&theme=tokyo-night)
 
-![Top Langs](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=MayaraSH&layout=compact&theme=dracula)
+![Top Langs](https://githubreadmestatsfast.vercel.app/api/top-langs/?username=MayaraSH&layout=compact&theme=tokyo-night)
 
 ---
 
 ### Top Projects
 
-[![Readme Card](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MayaraSH&repo=mayara.digital&theme=dracula)](https://github.com/MayaraSH/mayara.digital)
+[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=mayara.digital&theme=tokyo-night)](https://github.com/MayaraSH/mayara.digital)
 
-[![Readme Card](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MayaraSH&repo=clone_disneyplus&theme=dracula)](https://github.com/MayaraSH/clone_disneyplus)
+[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=clone_disneyplus&theme=tokyo-night)](https://github.com/MayaraSH/clone_disneyplus)
 
-[![Readme Card](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MayaraSH&repo=react_imc&theme=dracula)](https://github.com/MayaraSH/react_imc)
+[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=react_imc&theme=tokyo-night)](https://github.com/MayaraSH/react_imc)
 
-[![Readme Card](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=MayaraSH&repo=countdown_evento&theme=dracula)](https://github.com/MayaraSH/countdown_evento)
+[![Readme Card](https://githubreadmestatsfast.vercel.app/api/pin/?username=MayaraSH&repo=countdown_evento&theme=tokyo-night)](https://github.com/MayaraSH/countdown_evento)
 
 ---
 
